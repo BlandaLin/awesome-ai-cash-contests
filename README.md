@@ -14,29 +14,29 @@
 | Contest | Track | Cash Prize | Live $/entrant | Deadline (UTC) | No-Code |
 | :--- | :--- | ---: | :--- | :---: | :---: |
 | [AI Film Award 2027 (1 Billion Summit)](https://aibountyradar.com/contest/1-billion-summit-ai-film-award-2027) | AI Video | $1,000,000 (Winner Takes All) | Unlisted (AI Short Film) | 2026-12-05 | Yes |
-| [Google - Agent Harness on Physical-Engineering's Last Exam](https://aibountyradar.com/contest/google-agent-harness-on-physical-engineerings-last-exam) | ML & Data | $400,000 | **$3,604/entrant** (111 · LOW) | 2027-01-05 | No |
+| [Google - Agent Harness on Physical-Engineering's Last Exam](https://aibountyradar.com/contest/google-agent-harness-on-physical-engineerings-last-exam) | ML & Data | $400,000 | **$3,478/entrant** (115 · LOW) | 2027-01-05 | No |
 | [Chroma Awards Season 2: AI Film & Media](https://aibountyradar.com/contest/elevenlabs-chroma-awards-season-2) | AI Video | $311,250 | Unlisted (Film & Media) | 2027-01-08 | Yes |
 | [ElevenCreative: The Year of More Video Competition](https://aibountyradar.com/contest/the-year-of-more) | AI Video | $200,000 | Unlisted (No-Code Friendly) | 2026-12-01 | Yes |
-| [Google Quantum AI - Verifiable Quantum Circuit Compilation](https://aibountyradar.com/contest/google-quantum-ai-verifiable-quantum-circuit-compilation) | ML & Data | $150,000 | $39/entrant (3,843 · MEDIUM) | 2027-01-20 | No |
-| [Codegeist 2026](https://aibountyradar.com/contest/atlassian-codegeist-2026) | Dev / Hackathon | $120,000 | $21/entrant (5,813 · MEDIUM) | 2026-12-22 | No |
-| [Kiroween 2026](https://aibountyradar.com/contest/aws-kiroween-2026) | Dev / Hackathon | $100,000 | $5/entrant (19,910 · HIGH) | 2026-12-04 | No |
-| [NFL Big Data Bowl 2027](https://aibountyradar.com/contest/nfl-big-data-bowl-2027) | ML & Data | $100,000 | **$129/entrant** (775 · LOW) | 2027-01-06 | No |
-| [Google - The Gemma 4 Developer Agent Competition](https://aibountyradar.com/contest/google-the-gemma-4-developer-agent-competition) | ML & Data | $75,000 | $11/entrant (7,003 · HIGH) | 2026-12-02 | No |
-| [AWS MSP AI Hackathon](https://aibountyradar.com/contest/aws-msp-ai-hackathon-2026) | Dev / Hackathon | $64,000 | **$109/entrant** (588 · LOW) | 2026-12-11 | No |
-| [Enveda CASMI 2026 - Molecule ID From Mass Spectra](https://aibountyradar.com/contest/enveda-casmi-2026-molecule-id-from-mass-spectra) | ML & Data | $50,000 | $8/entrant (6,162 · HIGH) | 2026-12-14 | No |
-| [QNX Global Hackathon](https://aibountyradar.com/contest/qnx-global-hackathon) | Dev / Hackathon | $50,000 | $18/entrant (2,765 · MEDIUM) | 2026-12-15 | No |
-| [Name That LLM](https://aibountyradar.com/contest/name-that-llm) | ML & Data | $50,000 | $7/entrant (7,295 · HIGH) | 2027-01-14 | No |
-| [Santa 2026 - The Elf Calculator](https://aibountyradar.com/contest/santa-2026-the-elf-calculator) | ML & Data | $50,000 | $15/entrant (3,397 · HIGH) | 2027-01-28 | No |
-| [Generalist Gaming Agent](https://aibountyradar.com/contest/generalist-gaming-agent) | ML & Data | $50,000 | **$90/entrant** (557 · LOW) | 2027-03-01 | No |
-| [Squares in Squares Optimization](https://aibountyradar.com/contest/kaggle-squares-in-squares-2027) | ML & Data | $50,000 | $20/entrant (2,559 · MEDIUM) | 2027-07-18 | No |
+| [Google Quantum AI - Verifiable Quantum Circuit Compilation](https://aibountyradar.com/contest/google-quantum-ai-verifiable-quantum-circuit-compilation) | ML & Data | $150,000 | $39/entrant (3,868 · MEDIUM) | 2027-01-20 | No |
+| [Codegeist 2026](https://aibountyradar.com/contest/atlassian-codegeist-2026) | Dev / Hackathon | $120,000 | $20/entrant (5,888 · MEDIUM) | 2026-12-22 | No |
+| [Kiroween 2026](https://aibountyradar.com/contest/aws-kiroween-2026) | Dev / Hackathon | $100,000 | $5/entrant (20,003 · HIGH) | 2026-12-04 | No |
+| [NFL Big Data Bowl 2027](https://aibountyradar.com/contest/nfl-big-data-bowl-2027) | ML & Data | $100,000 | **$128/entrant** (780 · LOW) | 2027-01-06 | No |
+| [Google - The Gemma 4 Developer Agent Competition](https://aibountyradar.com/contest/google-the-gemma-4-developer-agent-competition) | ML & Data | $75,000 | $11/entrant (7,018 · HIGH) | 2026-12-02 | No |
+| [AWS MSP AI Hackathon](https://aibountyradar.com/contest/aws-msp-ai-hackathon-2026) | Dev / Hackathon | $64,000 | **$108/entrant** (593 · LOW) | 2026-12-11 | No |
+| [Enveda CASMI 2026 - Molecule ID From Mass Spectra](https://aibountyradar.com/contest/enveda-casmi-2026-molecule-id-from-mass-spectra) | ML & Data | $50,000 | $8/entrant (6,193 · HIGH) | 2026-12-14 | No |
+| [QNX Global Hackathon](https://aibountyradar.com/contest/qnx-global-hackathon) | Dev / Hackathon | $50,000 | $18/entrant (2,797 · MEDIUM) | 2026-12-15 | No |
+| [Name That LLM](https://aibountyradar.com/contest/name-that-llm) | ML & Data | $50,000 | $7/entrant (7,324 · HIGH) | 2027-01-14 | No |
+| [Santa 2026 - The Elf Calculator](https://aibountyradar.com/contest/santa-2026-the-elf-calculator) | ML & Data | $50,000 | $14/entrant (3,463 · HIGH) | 2027-01-28 | No |
+| [Generalist Gaming Agent](https://aibountyradar.com/contest/generalist-gaming-agent) | ML & Data | $50,000 | **$85/entrant** (587 · LOW) | 2027-03-01 | No |
+| [Squares in Squares Optimization](https://aibountyradar.com/contest/kaggle-squares-in-squares-2027) | ML & Data | $50,000 | $19/entrant (2,572 · MEDIUM) | 2027-07-18 | No |
 | [NeurIPS Smart Buildings Challenge](https://aibountyradar.com/contest/kaggle-neurips-smart-buildings-2026) | ML & Data | $40,000 | $18/entrant (2,246 · MEDIUM) | 2027-01-15 | No |
-| [#BuildHybridAI 2026](https://aibountyradar.com/contest/google-build-hybrid-ai-2026) | Dev / Hackathon | $30,000 | $5/entrant (5,904 · HIGH) | 2026-11-30 | No |
-| [Deck the Pixels: Holiday Sweater & Card Challenge](https://aibountyradar.com/contest/deck-the-pixels-google-adobe-2026) | Design | $25,000 ($8,000 1st) | $10/entrant (2,480 · HIGH) | 2026-12-07 | Yes |
-| [Cloud9 x JetBrains: Sky's The Limit Hackathon 2026](https://aibountyradar.com/contest/cloud9-jetbrains-hackathon-2027) | Dev / Hackathon | $25,000 | $18/entrant (1,422 · MEDIUM) | 2027-01-12 | No |
-| [Open Agentic Web Challenge](https://aibountyradar.com/contest/open-agentic-web-challenge-2027) | Dev / Hackathon | $10,000 | $4/entrant (2,365 · HIGH) | 2027-01-11 | No |
-| [Dis-Chem Product Data Enrichment Challenge](https://aibountyradar.com/contest/dischem-product-data-entichment-challenge) | ML & Data | $5,000 | $8/entrant (591 · HIGH) | 2026-12-13 | No |
+| [#BuildHybridAI 2026](https://aibountyradar.com/contest/google-build-hybrid-ai-2026) | Dev / Hackathon | $30,000 | $5/entrant (5,988 · HIGH) | 2026-11-30 | No |
+| [Deck the Pixels: Holiday Sweater & Card Challenge](https://aibountyradar.com/contest/deck-the-pixels-google-adobe-2026) | Design | $25,000 ($8,000 1st) | $10/entrant (2,521 · HIGH) | 2026-12-07 | Yes |
+| [Cloud9 x JetBrains: Sky's The Limit Hackathon 2026](https://aibountyradar.com/contest/cloud9-jetbrains-hackathon-2027) | Dev / Hackathon | $25,000 | $17/entrant (1,459 · MEDIUM) | 2027-01-12 | No |
+| [Open Agentic Web Challenge](https://aibountyradar.com/contest/open-agentic-web-challenge-2027) | Dev / Hackathon | $10,000 | $4/entrant (2,415 · HIGH) | 2027-01-11 | No |
+| [Dis-Chem Product Data Enrichment Challenge](https://aibountyradar.com/contest/dischem-product-data-entichment-challenge) | ML & Data | $5,000 | $8/entrant (596 · HIGH) | 2026-12-13 | No |
 | [Hollywood AI Short Film Awards 2027](https://aibountyradar.com/contest/hollywood-ai-short-film-awards-2027) | AI Video | $2,750 | Unlisted (AI Short Film) | 2027-01-12 | Yes |
-| [HOTOSM African Highway Segmentation Challenge](https://aibountyradar.com/contest/hotosm-african-highway-segmentation) | ML & Data | $2,500 | $5/entrant (488 · HIGH) | 2026-12-13 | No |
+| [HOTOSM African Highway Segmentation Challenge](https://aibountyradar.com/contest/hotosm-african-highway-segmentation) | ML & Data | $2,500 | $5/entrant (498 · HIGH) | 2026-12-13 | No |
 | [Global AI Music Video Awards 2027](https://aibountyradar.com/contest/global-ai-music-video-awards-2027) | AI Video | $1,000 | Unlisted (AI Music Video) | 2027-01-01 | Yes |
 
 ## Verification & Inclusion Rules
